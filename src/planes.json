@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "F-16 Fighting Falcon",
+    "price": "$70M",
+    "image": "../../assets/F16.jpg",
+    "description": "Caza multirole ligero",
+    "power": 85,
+    "speed": "2,120 km/h",
+    "country": "USA"
+  },
+  {
+    "id": 2,
+    "title": "F-35 Lightning II",
+    "price": "$90M",
+    "image": "../../assets/F35.jpg",
+    "description": "Caza furtivo de 5ta generación",
+    "power": 95,
+    "speed": "1,930 km/h",
+    "country": "USA"
+  },
+  {
+    "id": 3,
+    "title": "F-22 Raptor",
+    "price": "$150M",
+    "image": "../../assets/f22.jpg",
+    "description": "Superioridad aérea avanzada",
+    "power": 100,
+    "speed": "2,410 km/h",
+    "country": "USA"
+  },
+  {
+    "id": 4,
+    "title": "Dassault Rafale",
+    "price": "$100M",
+    "image": "../../assets/rafale.jpg",
+    "description": "Caza versátil europeo",
+    "power": 92,
+    "speed": "1,912 km/h",
+    "country": "Francia"
+  },
+  {
+    "id": 5,
+    "title": "Chengdu J-20",
+    "price": "$110M",
+    "image": "../../assets/j20.jpg",
+    "description": "Caza furtivo chino",
+    "power": 93,
+    "speed": "2,100 km/h",
+    "country": "China"
+  },
+  {
+    "id": 6,
+    "title": "Saab Gripen",
+    "price": "$60M",
+    "image": "../../assets/gripen.jpg",
+    "description": "Caza ligero sueco",
+    "power": 80,
+    "speed": "2,200 km/h",
+    "country": "Suecia"
+  },
+  {
+    "id": 7,
+    "title": "Eurofighter Typhoon",
+    "price": "$120M",
+    "image": "../../assets/typhoon.jpg",
+    "description": "Caza europeo de alto rendimiento",
+    "power": 94,
+    "speed": "2,495 km/h",
+    "country": "Europa"
+  },
+  {
+    "id": 8,
+    "title": "F/A-18 Super Hornet",
+    "price": "$70M",
+    "image": "../../assets/f18.jpg",
+    "description": "Caza embarcado naval",
+    "power": 88,
+    "speed": "1,915 km/h",
+    "country": "USA"
+  },
+  {
+    "id": 9,
+    "title": "SU-35",
+    "price": "$85M",
+    "image": "../../assets/su35.jpg",
+    "description": "Caza pesado ruso",
+    "power": 96,
+    "speed": "2,400 km/h",
+    "country": "Rusia"
+  },
+  {
+    "id": 10,
+    "title": "MiG-35",
+    "price": "$50M",
+    "image": "../../assets/mig35.jpg",
+    "description": "Caza táctico moderno",
+    "power": 84,
+    "speed": "2,100 km/h",
+    "country": "Rusia"
+  },
+  {
+    "id": 11,
+    "title": "KF-21 Boramae",
+    "price": "$65M",
+    "image": "../../assets/k21.jpg",
+    "description": "Caza coreano en desarrollo",
+    "power": 87,
+    "speed": "2,200 km/h",
+    "country": "Corea del Sur"
+  },
+  {
+    "id": 12,
+    "title": "HAL Tejas Mk1",
+    "price": "$45M",
+    "image": "../../assets/tejas.jpg",
+    "description": "Caza ligero indio",
+    "power": 78,
+    "speed": "2,205 km/h",
+    "country": "India"
+  }
+]
